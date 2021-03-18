@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+body{
+    background-color: black;
+}
+h2{
+    color: whitesmoke;
+    text-align: center;
+    background-color: rgb(54, 54, 54);
+}
+nav{
+    overflow: hidden;
+    background-color: rgb(54, 54, 54);
+    padding: 20px;
+}
+nav a{
+    text-align: left;
+    padding-right: 100px;
+    text-decoration: none;
+    font-size: larger;
+    color: whitesmoke;
+}
+nav input{
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.603);
+}
+#kit{
+    width: 100%;
+}
+table{
+    margin: auto;
+}
+.image1{
+    width: 500px;
+    padding: 5px;
+}
+.lamba{
+    padding: 10px;
+}
+p{
+    color: whitesmoke;
+    text-align: center;
+}
+.logo{
+    height: 500px;
+    width:650px;
+    padding: 25px;
+}
+.prod{
+    color: whitesmoke;
+    text-align: center;
+}
+footer{
+    background-color: rgb(54, 54, 54);
+}

@@ -1,0 +1,97 @@
+*{
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+nav{
+    background-color:rgb(71, 70, 70);
+    border: 30px solid black;
+    overflow: hidden;
+    padding: 25px;
+    color: white;
+} 
+nav a{
+    text-align: left;
+    padding-right: 100px;
+    text-decoration: none;
+    font-size: larger;
+    color: white;
+}
+nav input{
+    padding: 10px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+#kitchen{
+    width: 100%;
+    margin-top: 20px;
+}
+h2{
+    background-color: rgb(71, 70, 70);
+    border:30px solid black;
+    padding: 25px;
+    color: white;
+    text-align: center;
+}
+footer{
+    background-color: rgb(71, 70, 70);
+    padding: 25px;
+    color: white;
+    text-align: center;
+}
+table{
+    margin: 10px auto;
+    background-color: rgb(0,0,0);
+    color: white;
+    justify-content:space-between;
+}
+/* .offer_head{
+    width: 1160px;
+    text-align: center;
+} */
+.offer_details{
+    padding-left:10px;
+    padding-right:10px;
+    text-align: center;
+}
+.offer_columns{
+    padding-left:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.offer_img{
+    height: 280px;
+    width: 290px;
+}
+.category_columns{
+    padding-left:18px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.category_img{
+    height: 220px;
+    width: 290px;
+}
+.category_details{
+    padding-left:105px;
+    padding-top:20px;
+    padding-bottom:20px;
+    /* padding-left:35px;
+    padding-right:36px;
+    text-align: center; */
+}
+.brand_columns{
+    padding-left:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.brand_img{
+    height: 370px;
+    width: 600px;
+}
+
+/* .dd{
+    color:white;
+    margin-right:80px;
+    margin-top:20px;
+    margin-left:10px;
+} */
